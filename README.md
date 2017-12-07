@@ -15,7 +15,8 @@ a label texted as "0"
 when INC button clicked , label text count increment 1.
 
 figure as 
-!(oneplus figure)[oneplus.png] 
+
+![oneplus figure](oneplus.png) 
 
 ## execise points
 
